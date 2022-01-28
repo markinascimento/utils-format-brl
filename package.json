@@ -1,0 +1,20 @@
+{
+  "name": "utils-format-brl",
+  "version": "1.0.0",
+  "description": "Pacote para formatação no padrão Brasileiro",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markinascimento/utils-format-brl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markinascimento/utils-format-brl/issues"
+  },
+  "homepage": "https://github.com/markinascimento/utils-format-brl#readme"
+}
