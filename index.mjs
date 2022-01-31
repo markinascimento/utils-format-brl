@@ -53,8 +53,6 @@ function handlerToFormatMoneyBRL(value){
   });
 }
 
-console.log(handlerToFormatMoneyBRL(1212.29));
-
 export { 
   handlerToFormatCEP, handlerToFormatCPF, handlerToFormatCPNJ, handlerToFormatPhone,handlerToFormatMoneyBRL, 
 }; 
