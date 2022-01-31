@@ -12,20 +12,10 @@
 
 - handlerToFormatMoneyBRL
 
-
-
-## Instalação
-
-Instalar o pacote no projeto usando o npm
-
-```bash
-  npm install utils-format-brl
-```
     
 ## Use
 
 ```javascript
-import { handlerToFormatCPF } from 'utils-format-brl'
 
 function Example() {
   console.log(handlerToFormatCPF(12345678912));
@@ -34,7 +24,6 @@ function Example() {
 ```
 
 ```javascript
-import { handlerToFormatCPNJ } from 'utils-format-brl'
 
 function Example() {
   console.log(handlerToFormatCPNJ(703126280020108));
@@ -43,7 +32,6 @@ function Example() {
 ```
 
 ```javascript
-import { handlerToFormatPhone } from 'utils-format-brl'
 
 function Example() {
   console.log(handlerToFormatPhone(99999929993));
@@ -52,7 +40,6 @@ function Example() {
 ```
 
 ```javascript
-import { handlerToFormatMoneyBRL } from 'utils-format-brl'
 
 function Example() {
   console.log(handlerToFormatMoneyBRL(1212.29));
