@@ -1,6 +1,6 @@
 {
   "name": "utils-format-brl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote para formatação no padrão Brasileiro",
   "main": "index.mjs",
   "scripts": {
